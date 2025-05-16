@@ -1,4 +1,4 @@
-# LSTM-VQE: LSTM-Enhanced Variational Quantum Eigensolver
+# LSTM-FC-VQE: LSTM-Enhanced Variational Quantum Eigensolver
 
 An implementation of a Long Short-Term Memory (LSTM) enhanced Variational Quantum Eigensolver (VQE) for optimizing UCCSD (Unitary Coupled Cluster Singles and Doubles) quantum circuit parameters. This project features two distinct approaches: our novel LSTM-FC-VQE method and a reference implementation of LSTM-VQE.
 
