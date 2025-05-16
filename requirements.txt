@@ -1,0 +1,16 @@
+torch>=2.6.0
+pennylane>=0.38.0
+pennylane-lightning>=0.38.0
+numpy>=1.26.4
+pandas>=2.2.2
+matplotlib>=3.9.2
+jupyter>=1.0.0
+scikit-learn>=1.6.1
+tqdm>=4.67.1
+tensorflow>=2.19.0
+jax>=0.4.30
+jaxlib>=0.4.30
+optax>=0.2.4
+h5py>=3.13.0
+aiohttp>=3.11.14
+fsspec>=2025.3.0 
