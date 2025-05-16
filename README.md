@@ -125,7 +125,7 @@ If you use this implementation in your research, please cite:
   title = {LSTM-VQE: LSTM-Enhanced Variational Quantum Eigensolver},
   author = {Lin, Yu-Cheng and Chang, Ran-Yu and Hsu, Pei-Che},
   year = {2024},
-  url = {https://github.com/[your-username]/LSTM-VQE},
+  url = {https://github.com/leo07010/LSTM-FC-VQE},
   type = {Software}
 }
 ``` 
