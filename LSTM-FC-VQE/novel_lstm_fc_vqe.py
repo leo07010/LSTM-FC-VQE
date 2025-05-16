@@ -8,7 +8,6 @@ Original file is located at
 
 # LSTM-VQE with UCCSD ansatz For Molecule
 
-可以調整的東西
 
 - optimizer = SGD, ADAM in veq_optimization
 - if you want to use VQE with SPSA, use the function vqe_molecule_spsa and vqe_optimization_spsa for test (not for train)
