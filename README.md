@@ -122,7 +122,7 @@ If you use this implementation in your research, please cite:
 
 ```bibtex
 @software{lstm_vqe_2024,
-  title = {LSTM-VQE: LSTM-Enhanced Variational Quantum Eigensolver},
+  title = {LSTM-FC-VQE: LSTM-Enhanced Variational Quantum Eigensolver},
   author = {Lin, Yu-Cheng and Chang, Ran-Yu and Hsu, Pei-Che},
   year = {2024},
   url = {https://github.com/leo07010/LSTM-FC-VQE},
